@@ -504,7 +504,7 @@ input::placeholder{
     aspect-ratio: unset;
     display: flex;
     justify-content: center;
-    align-items: start;
+    align-items: flex-start;
     gap: 1em;
     z-index: -100;
   }
