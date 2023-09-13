@@ -58,7 +58,7 @@ function FinishingUp({info, toggleCircle}) {
             </div>
             <div className="footer">
                 <Link to="/pick-add-ons" className="go--back">Go Back</Link>
-                <a href="/thank-you" className="confirm">Confirm</a>
+                <Link to="/thank-you" className="confirm">Confirm</Link>
             </div>
         </div>
       </div>
